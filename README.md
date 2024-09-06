@@ -20,4 +20,6 @@ If nothing else, it will start a discussion on
 - which topics should be outlined/detailed, and
 - the extend of detail to be covered under each heading.
 
+Scripts which have been referenced will be uploaded at a later date, but not too far off.
+
 
